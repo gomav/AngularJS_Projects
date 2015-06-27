@@ -1,0 +1,27 @@
+[
+  {"id": 1,
+   "name": "Boulder Location",
+   "street": "3600 Perdido Ave. Suit 3",
+   "city": "Boulder",
+   "state": "Colorado",
+   "zip": "80027",
+   "phone": "303.568.8888"
+  },
+  {"id": 2,
+   "name": "Broomfield Location",
+   "street": "17 Solo Ave.",
+   "city": "Broomfield",
+   "state": "Colorado",
+   "zip": "80023",
+   "phone": "303.456.8888"
+  },
+  {"id": 3,
+   "name": "Denver Location",
+   "street": "49 Pobre Ave.",
+   "city": "Denver",
+   "state": "Colorado",
+   "zip": "80020",
+   "phone": "720.568.9085"
+  }
+  
+]

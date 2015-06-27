@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repairs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas urna in mauris eleifend, consectetur vehicula nisl blandit. Maecenas commodo arcu a nibh vulputate malesuada. Duis dignissim nec nisi eleifend auctor. Quisque justo lacus, posuere sit amet accumsan ac, rutrum vitae risus. Suspendisse egestas tincidunt massa sit amet dignissim. Curabitur eu aliquet massa. Pellentesque rhoncus sollicitudin pharetra. Nulla auctor lorem dapibus, faucibus nisl sit amet, mattis erat. Aliquam scelerisque magna fermentum justo sollicitudin porttitor. Vivamus feugiat massa vitae sodales dictum. Vivamus sit amet ante id neque ultricies pellentesque at quis lectus. Aliquam erat volutpat. Aenean vel velit purus. Duis porttitor diam id pretium laoreet. Aliquam sit amet ligula porta, vehicula ligula vel, iaculis massa.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas urna in mauris eleifend, consectetur vehicula nisl blandit. Maecenas commodo arcu a nibh vulputate malesuada. Duis dignissim nec nisi eleifend auctor. Quisque justo lacus, posuere sit amet accumsan ac, rutrum vitae risus. Suspendisse egestas tincidunt massa sit amet dignissim. Curabitur eu aliquet massa. Pellentesque rhoncus sollicitudin pharetra. Nulla auctor lorem dapibus, faucibus nisl sit amet, mattis erat. Aliquam scelerisque magna fermentum justo sollicitudin porttitor. Vivamus feugiat massa vitae sodales dictum. Vivamus sit amet ante id neque ultricies pellentesque at quis lectus. Aliquam erat volutpat. Aenean vel velit purus. Duis porttitor diam id pretium laoreet. Aliquam sit amet ligula porta, vehicula ligula vel, iaculis massa.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas urna in mauris eleifend, consectetur vehicula nisl blandit. Maecenas commodo arcu a nibh vulputate malesuada. Duis dignissim nec nisi eleifend auctor. Quisque justo lacus, posuere sit amet accumsan ac, rutrum vitae risus. Suspendisse egestas tincidunt massa sit amet dignissim. Curabitur eu aliquet massa. Pellentesque rhoncus sollicitudin pharetra. Nulla auctor lorem dapibus, faucibus nisl sit amet, mattis erat. Aliquam scelerisque magna fermentum justo sollicitudin porttitor. Vivamus feugiat massa vitae sodales dictum. Vivamus sit amet ante id neque ultricies pellentesque at quis lectus. Aliquam erat volutpat. Aenean vel velit purus. Duis porttitor diam id pretium laoreet. Aliquam sit amet ligula porta, vehicula ligula vel, iaculis massa.",
+    "image": "computer-icon.png"
+  }
+]
