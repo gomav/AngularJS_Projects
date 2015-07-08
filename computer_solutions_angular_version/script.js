@@ -18,7 +18,7 @@ var app=angular.module("computer", ['ngRoute'])
       templateUrl: 'contact.html',
       controller:'ContactCtrl'
     }).
-    otherwise({redirectTo:'/main'})
+    otherwise({redirectTo:'/main'});
 }])
 
 .controller('MainCtrl', ['$scope', '$http',function($scope, $http){
@@ -37,5 +37,3 @@ var app=angular.module("computer", ['ngRoute'])
     $scope.locations = response.data;
   });
 }]);
-
-
